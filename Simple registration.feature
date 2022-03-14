@@ -112,3 +112,5 @@ Scenario: Register filling all the fields with valid data with leading and trail
 	And I click the "Register" button
 	Then The user account have been created 
 	And I see a confirmation message 
+
+	# The End
